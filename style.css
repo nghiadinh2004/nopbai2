@@ -1,0 +1,27 @@
+.abc{
+    background-color: #c31616;
+}
+.title{
+    font-size: 14px;
+}
+.bg-title{
+    background-color: black;
+}
+.form-control {
+    width: auto;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.search-button{
+    width: 58px;
+    height: 38px;
+    top: 0;
+    right: 0;
+    border: none;
+    background: black;
+    color:white;
+    border-radius: 0 5px 5px 0;
+}
+.icon{
+    font-size: 22px;
+}
